@@ -1,6 +1,7 @@
 # Vérif Constructeur : règles du dépôt
 
-Site statique (HTML et CSS, aucun outil de build) publié par GitHub Pages depuis la branche `main`.
+Site statique (HTML et CSS, aucun outil de build) publié par GitHub Pages.
+Chaque modification se pousse sur les deux branches : `git push origin main main:gh-pages`.
 Adresse : https://franckndizang-netizen.github.io/verif-constructeur/
 
 ## Ajouter un guide
